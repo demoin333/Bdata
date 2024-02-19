@@ -1,3 +1,3 @@
-def sum1(*args):
-	return sum(args)
-sum1(2,3,4,5)
+print("hello")
+s = sum(range(1, 12))
+print(s)
